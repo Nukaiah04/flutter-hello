@@ -1,0 +1,12 @@
+name: flutter_hello
+description: Simple Flutter app for GitHub Actions
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
